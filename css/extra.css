@@ -1,0 +1,13 @@
+.selector {
+  -webkit-column-count: 3;
+          column-count: 3;
+  column-count: 3;
+  column-count: 3;
+  -webkit-column-gap: 1.5em;
+          column-gap: 1.5em;
+  column-gap: 1.5em;
+  column-gap: 1.5em;
+  -webkit-column-rule: 2px solid hotpink;
+          column-rule: 2px solid hotpink;
+  column-rule: 2px solid hotpink;
+  column-rule: 2px solid hotpink; }
